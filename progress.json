@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:47:38.402Z",
+  "generated_at": "2026-10-26T12:27:49.062Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -131,6 +131,17 @@
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-10-26T07:47:40.594Z",
       "last_pushed_at": "2026-10-26T07:47:40.594Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-10-26T12:27:52.666Z",
+      "last_pushed_at": "2026-10-26T12:27:52.666Z"
     }
   }
 }
